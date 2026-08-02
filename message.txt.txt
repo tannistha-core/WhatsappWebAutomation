@@ -1,0 +1,3 @@
+Hello,
+
+This is a message being sent by the WhatsApp automation project.

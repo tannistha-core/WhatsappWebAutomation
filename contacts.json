@@ -1,0 +1,16 @@
+{
+    "contacts": [
+        {
+            "name": "John",
+            "phone": "+91XXXXXXXXXX"
+        },
+        {
+            "name": "Alice",
+            "phone": "+91XXXXXXXXXX"
+        },
+        {
+            "name": "Rahul",
+            "phone": "+91XXXXXXXXXX"
+        }
+    ]
+}
